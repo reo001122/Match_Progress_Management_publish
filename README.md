@@ -1,6 +1,10 @@
 # Match_Progress_Management_publish
 使用例: https://docs.google.com/spreadsheets/d/1f4s9WsdIkBBvGNPAKiar72qTjhW9R18IDlQFZs3a1C4/edit?usp=sharing
 ## シートの使い方
+### トリガーの設定
+- check_by_time():時間ベース（1分毎）
+- input_time():スプレッドシートから（変更時）
+- input_time_reserve():スプレッドシートから（変更時）
 ### 試合進行シート（シート名が日付のみもの）
 #### シートの見方
 シート上部にあるのが、各面の試合進行を表した表です。各試合の2x4のセルについて<br>
